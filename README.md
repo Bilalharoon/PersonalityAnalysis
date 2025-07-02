@@ -1,0 +1,1 @@
+This is a simple python script that gets your spotify top songs and then uses OpenAI API to analyze them and create a personality profile
